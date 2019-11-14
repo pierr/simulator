@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AML-demo/static/css/main.403214f1.chunk.css",
-    "main.js": "/AML-demo/static/js/main.908b78bd.chunk.js",
-    "main.js.map": "/AML-demo/static/js/main.908b78bd.chunk.js.map",
-    "runtime~main.js": "/AML-demo/static/js/runtime~main.491a21d2.js",
-    "runtime~main.js.map": "/AML-demo/static/js/runtime~main.491a21d2.js.map",
-    "static/js/2.2f3cc75c.chunk.js": "/AML-demo/static/js/2.2f3cc75c.chunk.js",
-    "static/js/2.2f3cc75c.chunk.js.map": "/AML-demo/static/js/2.2f3cc75c.chunk.js.map",
-    "index.html": "/AML-demo/index.html",
-    "precache-manifest.b5d0d8024691eb94bd73ec3217a377e5.js": "/AML-demo/precache-manifest.b5d0d8024691eb94bd73ec3217a377e5.js",
-    "service-worker.js": "/AML-demo/service-worker.js",
-    "static/css/main.403214f1.chunk.css.map": "/AML-demo/static/css/main.403214f1.chunk.css.map",
-    "static/media/logo.svg": "/AML-demo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/simulator/static/css/main.403214f1.chunk.css",
+    "main.js": "/simulator/static/js/main.908b78bd.chunk.js",
+    "main.js.map": "/simulator/static/js/main.908b78bd.chunk.js.map",
+    "runtime~main.js": "/simulator/static/js/runtime~main.491a21d2.js",
+    "runtime~main.js.map": "/simulator/static/js/runtime~main.491a21d2.js.map",
+    "static/js/2.2f3cc75c.chunk.js": "/simulator/static/js/2.2f3cc75c.chunk.js",
+    "static/js/2.2f3cc75c.chunk.js.map": "/simulator/static/js/2.2f3cc75c.chunk.js.map",
+    "index.html": "/simulator/index.html",
+    "precache-manifest.b5d0d8024691eb94bd73ec3217a377e5.js": "/simulator/precache-manifest.b5d0d8024691eb94bd73ec3217a377e5.js",
+    "service-worker.js": "/simulator/service-worker.js",
+    "static/css/main.403214f1.chunk.css.map": "/simulator/static/css/main.403214f1.chunk.css.map",
+    "static/media/logo.svg": "/simulator/static/media/logo.5d5d9eef.svg"
   }
 }
